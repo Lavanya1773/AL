@@ -1,6 +1,10 @@
 hi Angi...!!
 Lavanya here...
+<<<<<<< HEAD
 Angitha here...
 Modified by Angitha
 
 
+=======
+How's ur day going Angitha.........................?
+>>>>>>> f2e018f5c10fd8be52527d5f79e69ca2e3ce88c6
